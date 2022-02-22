@@ -6,6 +6,7 @@
 </div>
   
 <div style="display: inline_block"><br>
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C5603AQE2uJPBiObD-Q/profile-displayphoto-shrink_200_200/0/1644427975093?e=1651104000&v=beta&t=sM7LxR0g_XAl5fkPEZES0fhLBqA0lBsPhY22epwXok8">
   <img align="center" alt="Rafa-Python" height="30" width="95" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
