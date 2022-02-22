@@ -1,6 +1,5 @@
 <h1 align='center'><i>Stay awesome!</i></h1>
-##
-## Hi i am a 18-year-old Technologies and Information Systems Programming student.
+ Hi i am a 18-year-old Technologies and Information Systems Programming student.
 <div align="center">
   <a href="https://github.com/brvieira8">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brvieira8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
