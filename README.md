@@ -1,4 +1,4 @@
-<h1 align='center'><i>Stay awesome!</i></h1>
+<h1 align='center'><i>Welcome to my profile!</i></h1>
  Hi i am a 18-year-old Technologies and Information Systems Programming student.
 <div align="center">
   <a href="https://github.com/brvieira8">
