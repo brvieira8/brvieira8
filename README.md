@@ -1,5 +1,5 @@
 <h1 align='center'><i>Welcome to my profile!</i></h1>
-<h3 align='center'> I am a 18-year-old Technologies and Information Systems Programming student from Portugal trying to improve my coding skills everyday.</h3>
+<h3 align='center'> I am a 19-year-old Technologies and Information Systems Programming student from Portugal trying to improve my coding skills everyday.</h3>
 
 <div align="center">
   
