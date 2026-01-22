@@ -18,7 +18,7 @@ DevOps fundamentals using Docker, Linux, and virtualized environments
 I prefer understanding how things work internally, not just making them “work”. That means writing my own logic, structuring projects properly, and gradually introducing best practices like layered architecture, DTOs, services, and repositories.
 
 My goal is to grow into a strong backend engineer with solid DevOps awareness, capable of designing, building, and maintaining scalable and secure systems.</h3>
-
+<h2 align="center">Always learning. Always building. Focused on long-term mastery</h2>
 <div align="center">
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brvieira8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
