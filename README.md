@@ -1,5 +1,23 @@
 <h1 align='center'><i>Welcome to my profile!</i></h1>
-<h3 align='center'> I am a 21-year-old Technologies and Information Systems Programming student from Portugal trying to improve my coding skills everyday.</h3>
+<h3 align='center'> I’m a Technologies and Information Systems Programming student with a strong focus on backend development using Java. I learn by building complete systems from the ground up, prioritizing clean architecture, solid fundamentals, and real-world practices.
+
+My current work revolves around:
+
+Java (17+) with strong OOP foundations
+
+Spring Boot for REST APIs and service-layer design
+
+PostgreSQL and data modeling
+
+Authentication, security concepts, and user/account systems
+
+System design (banking systems, ERP-style projects, multi-account users)
+
+DevOps fundamentals using Docker, Linux, and virtualized environments
+
+I prefer understanding how things work internally, not just making them “work”. That means writing my own logic, structuring projects properly, and gradually introducing best practices like layered architecture, DTOs, services, and repositories.
+
+My goal is to grow into a strong backend engineer with solid DevOps awareness, capable of designing, building, and maintaining scalable and secure systems.</h3>
 
 <div align="center">
   
